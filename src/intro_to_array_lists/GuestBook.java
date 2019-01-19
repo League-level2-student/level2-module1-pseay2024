@@ -20,6 +20,7 @@ public class GuestBook implements ActionListener {
 
 	public static void main(String[] args) {
 		new GuestBook().createGUI();
+		// creating create
 	}
 
 	public void createGUI() {
